@@ -1,8 +1,7 @@
-import time
-from time import sleep
 from nft.nft import NFT
 
-image = NFT()
-image.display()
-while(True):    
-    sleep(1)
+
+
+disp1=NFT()
+disp1.display('img/image2.jpg','img/frame0.jpg')
+
