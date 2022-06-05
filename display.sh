@@ -1,3 +1,3 @@
 export DISPLAY=:0.0
-export DISPLAY=:0.1
+# export DISPLAY=:0.1
 # xhost +
